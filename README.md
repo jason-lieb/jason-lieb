@@ -19,7 +19,7 @@ Redux,
 Svelte,
 <img src="icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="15px" />
 Bootstrap,
-<img src="icons/tailwind.svg" alt="Tailwind" title="Tailwind" height="15px" />
+<img src="icons/tailwindcss.svg" alt="Tailwind" title="Tailwind" height="15px" />
 Tailwind,
 <img src="icons/jquery.svg" alt="jQuery" title="jQuery" height="15px" />
 jQuery
