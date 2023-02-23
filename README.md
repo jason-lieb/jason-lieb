@@ -5,15 +5,23 @@ I'm a software engineer in Atlanta, GA with an engineering degree and full stack
 ## 💻 Technologies
 
 **Front End:**
+<img src="icons/html5.svg" alt="HTML" title="HTML" height="15px" />
 HTML,
+<img src="icons/css3.svg" alt="CSS" title="CSS" height="15px" />
 CSS,
 <img src="icons/javascript.svg" alt="Javascript" title="Javascript" height="15px" />
 Javascript,
+<img src="icons/react.svg" alt="React" title="React" height="15px" />
 React,
+<img src="icons/redux.svg" alt="Redux" title="Redux" height="15px" />
 Redux,
+<img src="icons/svelte.svg" alt="Svelte" title="Svelte" height="15px" />
 Svelte,
+<img src="icons/bootstrap.svg" alt="Bootstrap" title="Bootstrap" height="15px" />
 Bootstrap,
+<img src="icons/tailwind.svg" alt="Tailwind" title="Tailwind" height="15px" />
 Tailwind,
+<img src="icons/jquery.svg" alt="jQuery" title="jQuery" height="15px" />
 jQuery
 <br/>
 
