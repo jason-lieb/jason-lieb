@@ -69,7 +69,7 @@ Jest
 ✉️ Email: Jason.lieb@outlook.com
 
 <div align="center">
-  [![GitHub Streak](https://streak-stats.demolab.com/?user=jason-lieb&theme=dark&hide_border=true)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Jason-lieb&theme=dark&hide_border=true)](https://git.io/streak-stats)
 </div>
 <!--
 - 🔭 I’m currently working on ...
