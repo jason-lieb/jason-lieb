@@ -8,7 +8,8 @@ I'm a software engineer in Atlanta, GA with an engineering degree and full stack
 HTML,
 CSS,
 <img src="icons/javascript.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px; display: inline;" />
-Javascript,
+
+<p>Javascript,</p>
 <img src="icons/react.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
 React,
 Redux,
@@ -48,11 +49,10 @@ Jest -->
 <img src="icons/linkedin.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />LinkedIn: Linkedin.com/in/jasonlieb/
 <br/>
 
-<p style="display: inline; margin: 0 5px;">✉️</p>
-Email: Jason.lieb@outlook.com
+<p style="display: inline; margin: 0 5px;">✉️</p>Email: Jason.lieb@outlook.com
 <br/>
-<img src="icons/github.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
-Portfolio:
+
+<img src="icons/github.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />Portfolio:
 
 <!--
 
