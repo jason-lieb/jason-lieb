@@ -8,10 +8,13 @@ HTML, CSS, Javascript, React, Redux, Svelte, Bootstrap, jQuery, Tailwind
 <br/>
 **Back End:**
 Node.js, Express, Handlebars
+<br/>
 **Databases:**
 SQL, MySQL, Sequelize, NoSQL, MongoDB, Mongoose
+<br/>
 **Concepts:**
 RESTful APIs, Object Relational / Data Mapping, Model View Controller, Agile Methodology
+<br/>
 <!-- ### Misc
 Jest -->
 
