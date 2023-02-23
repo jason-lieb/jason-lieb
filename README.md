@@ -3,13 +3,13 @@
 I'm a software engineer in Atlanta, GA with an engineering degree and full stack bootcamp certification from Georgia Tech.
 
 ## 💻 Skills
-##### Front End
+** Front End **
 HTML, CSS, Javascript, React, Redux, Svelte, Bootstrap, jQuery, Tailwind
-##### Back End
+** Back End **
 Node.js, Express, Handlebars
-##### Databases
+** Databases **
 SQL, MySQL, Sequelize, NoSQL, MongoDB, Mongoose
-##### Concepts
+** Concepts **
 RESTful APIs, Object Relational / Data Mapping, Model View Controller, Agile Methodology
 <!-- ### Misc
 Jest -->
