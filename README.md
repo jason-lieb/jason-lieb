@@ -3,27 +3,56 @@
 I'm a software engineer in Atlanta, GA with an engineering degree and full stack bootcamp certification from Georgia Tech.
 
 ## 💻 Technologies
+
 **Front End:**
-HTML, CSS, <img src="icons/javascript.png" style="width: 18px;" />Javascript, React, Redux, Svelte, Bootstrap, jQuery, Tailwind
+HTML,
+CSS,
+<img src="icons/javascript.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
+Javascript,
+<img src="icons/react.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
+React,
+Redux,
+Svelte,
+Bootstrap,
+Tailwind,
+jQuery
 <br/>
+
 **Back End:**
-Node.js, Express, Handlebars
+Node.js,
+Express,
+Handlebars
 <br/>
+
 **Databases:**
-SQL, MySQL, Sequelize, NoSQL, MongoDB, Mongoose
+SQL,
+MySQL,
+Sequelize,
+NoSQL,
+MongoDB,
+Mongoose
 <br/>
+
 **Concepts:**
-RESTful APIs, Object Relational / Data Mapping, Model View Controller, Agile Methodology
+RESTful APIs,
+Object Relational / Data Mapping,
+Model View Controller,
+Agile Methodology
 <br/>
+
 <!-- ### Misc
 Jest -->
 
 ## ⛓ My Links
 
-* LinkedIn: Linkedin.com/in/jasonlieb/
-* Email: Jason.lieb@outlook.com
-<!-- * Portfolio: -->
-<!--  ✉️-->
+<img src="icons/linkedin.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
+LinkedIn: Linkedin.com/in/jasonlieb/
+<br/>
+<p style="display: inline; margin: 0 5px;">✉️</p>
+Email: Jason.lieb@outlook.com
+<br/>
+<img src="icons/github.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
+Portfolio:
 
 <!--
 
