@@ -7,6 +7,7 @@ I'm a software engineer in Atlanta, GA with an engineering degree and full stack
 **Front End:**
 HTML,
 CSS,
+<img src="icons/javascript.svg" alt="Javascript" height="18px" />
 Javascript,
 React,
 Redux,
@@ -43,7 +44,7 @@ Jest -->
 
 ## ⛓ My Links
 
-<img src="icons/linkedin.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" /> LinkedIn: Linkedin.com/in/jasonlieb/
+<img src="icons/linkedin.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" /> LinkedIn: Linkedin.com/in/jasonlieb/
 <br/>
 
 <img src="icons/github.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" /> Portfolio:
@@ -51,7 +52,6 @@ Jest -->
 
 ✉️ Email: Jason.lieb@outlook.com
 
-<!-- <img src="icons/javascript.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px; display: inline;" /> -->
 <!-- <img src="icons/react.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px; display: inline;" /> -->
 
 <!-- <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
