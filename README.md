@@ -26,16 +26,22 @@ jQuery
 <br/>
 
 **Back End:**
+<img src="icons/nodejs.svg" alt="Node.js" title="Node.js" height="15px" />
 Node.js,
+<img src="icons/express.svg" alt="Express" title="Express" height="15px" />
 Express,
+<img src="icons/handlebars.svg" alt="Handlebars" title="Handlebars" height="15px" />
 Handlebars
 <br/>
 
 **Databases:**
 SQL,
+<img src="icons/mysql.svg" alt="Handlebars" title="Handlebars" height="15px" />
 MySQL,
+<img src="icons/sequelize.svg" alt="Sequelize" title="Sequelize" height="15px" />
 Sequelize,
 NoSQL,
+<img src="icons/mongodb.svg" alt="MongoDB" title="MongoDB" height="15px" />
 MongoDB,
 Mongoose
 <br/>
@@ -47,28 +53,22 @@ Model View Controller,
 Agile Methodology
 <br/>
 
-<!-- ### Misc
-Jest -->
+**Other:**
+<img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
+Jest
+<br/>
 
 ## ⛓ My Links
 
-<img src="icons/linkedin.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" /> LinkedIn: Linkedin.com/in/jasonlieb/
+<img src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="15px" /> LinkedIn: Linkedin.com/in/jasonlieb/
 <br/>
 
-<img src="icons/github.svg" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" /> Portfolio:
+<img src="icons/github.svg" alt="Github" title="Github" height="15px" /> Portfolio:
 <br/>
 
 ✉️ Email: Jason.lieb@outlook.com
 
-<!-- <img src="icons/react.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px; display: inline;" /> -->
-
-<!-- <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-<img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" /> -->
-
 <!--
-
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
