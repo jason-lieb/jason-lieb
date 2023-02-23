@@ -45,9 +45,9 @@ Jest -->
 
 ## ⛓ My Links
 
-<img src="icons/linkedin.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
-LinkedIn: Linkedin.com/in/jasonlieb/
+<img src="icons/linkedin.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />LinkedIn: Linkedin.com/in/jasonlieb/
 <br/>
+
 <p style="display: inline; margin: 0 5px;">✉️</p>
 Email: Jason.lieb@outlook.com
 <br/>
