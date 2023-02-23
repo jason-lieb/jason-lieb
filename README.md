@@ -16,7 +16,8 @@ Jest -->
 
 ## ⛓ My Links
 
-* LinkedIn: https://www.linkedin.com/in/jasonlieb/
+* LinkedIn: Linkedin.com/in/jasonlieb/
+* Email: Jason.lieb@outlook.com
 <!-- * Portfolio: -->
 <!--  ✉️-->
 
