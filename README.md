@@ -68,6 +68,8 @@ Jest
 
 ✉️ Email: Jason.lieb@outlook.com
 
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-lieb&show_icons=true&theme=transparent&hide_border=true)
+
 <!--
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
