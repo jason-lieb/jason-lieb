@@ -1,9 +1,27 @@
-### Hi there 👋
+### Hi, I'm Jason! 👋
+
+I'm a software engineer in Atlanta, GA with an engineering degree and full stack bootcamp certification from Georgia Tech.
+
+<!-- ## 💻 Skills
+### Front End
+HTML, CSS, Javascript, React, Redux, Svelte, Bootstrap, jQuery, Tailwind, Font Awesome
+### Back End
+Node.js, Express, Handlebars
+### Databases
+SQL, MySQL, Sequelize, NoSQL, MongoDB, Mongoose
+### Concepts
+RESTful APIs, Object Relational / Data Mapping, Model View Controller, Agile Methodology
+### Misc
+Jest -->
+
+## ⛓ My Links
+
+* LinkedIn: https://www.linkedin.com/in/jasonlieb/
+<!-- * Portfolio: -->
+<!--  ✉️-->
 
 <!--
-**jason-lieb/jason-lieb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
