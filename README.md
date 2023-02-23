@@ -4,7 +4,7 @@ I'm a software engineer in Atlanta, GA with an engineering degree and full stack
 
 ## 💻 Technologies
 **Front End:**
-HTML, CSS, Javascript, React, Redux, Svelte, Bootstrap, jQuery, Tailwind
+HTML, CSS, <img src="icons/javascript.png" />Javascript, React, Redux, Svelte, Bootstrap, jQuery, Tailwind
 <br/>
 **Back End:**
 Node.js, Express, Handlebars
