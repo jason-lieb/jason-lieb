@@ -7,7 +7,7 @@ I'm a software engineer in Atlanta, GA with an engineering degree and full stack
 **Front End:**
 HTML,
 CSS,
-<img src="icons/javascript.svg" alt="Javascript" height="18px" />
+<img src="icons/javascript.svg" alt="Javascript" title="Javascript" height="15px" />
 Javascript,
 React,
 Redux,
