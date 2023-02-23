@@ -7,7 +7,7 @@ I'm a software engineer in Atlanta, GA with an engineering degree and full stack
 **Front End:**
 HTML,
 CSS,
-<img src="icons/javascript.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
+<img src="icons/javascript.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px; display: inline;" />
 Javascript,
 <img src="icons/react.png" style="width: 18px; position: relative; top: 3px; margin: 0 5px;" />
 React,
