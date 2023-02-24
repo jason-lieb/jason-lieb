@@ -46,6 +46,11 @@ MongoDB,
 Mongoose
 <br/>
 
+**Other:**
+<img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
+Jest
+<br/>
+
 **Concepts:**
 RESTful APIs,
 Object Relational / Data Mapping,
@@ -53,17 +58,12 @@ Model View Controller,
 Agile Methodology
 <br/>
 
-**Other:**
-<img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
-Jest
-<br/>
-
 ## ⛓ My Links
 
 <img src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="15px" /> LinkedIn: [Linkedin.com/in/jasonlieb/](Linkedin.com/in/jasonlieb/)
 <br/>
 
-<img src="icons/github.svg" alt="Github" title="Github" height="15px" /> Portfolio:
+<img src="icons/github.svg" alt="Github" title="Github" height="15px" /> Portfolio: [Jason-Lieb.github.io/portfolio/](jason-lieb.github.io/portfolio/)
 <br/>
 
 ✉️ Email: Jason.lieb@outlook.com
