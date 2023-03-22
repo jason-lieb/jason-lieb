@@ -49,6 +49,12 @@ Mongoose
 **Other:**
 <img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
 Jest
+<img src="icons/graphql.svg" alt="GraphQL" title="GraphQL" height="15px" />
+GraphQL
+<img src="icons/eslint.svg" alt="ESLint" title="ESLint" height="15px" />
+ESLint
+<img src="icons/prettier.svg" alt="Prettier" title="Prettier" height="15px" />
+Prettier
 <br/>
 
 **Concepts:**
@@ -56,17 +62,6 @@ RESTful APIs,
 Object Relational / Data Mapping,
 Model View Controller,
 Agile Methodology
-<br/>
-
-**Other:**
-<img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
-Jest
-<img src="icons/graphQL.svg" alt="GraphQL" title="GraphQL" height="15px" />
-GraphQL
-<img src="icons/eslint.svg" alt="ESLint" title="ESLint" height="15px" />
-ESLint
-<img src="icons/prettier.svg" alt="Prettier" title="Prettier" height="15px" />
-Prettier
 <br/>
 
 ## ⛓ My Links
