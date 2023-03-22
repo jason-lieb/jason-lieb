@@ -51,7 +51,7 @@ Mongoose
 Jest
 <img src="icons/graphql.svg" alt="GraphQL" title="GraphQL" height="15px" />
 GraphQL
-<img src="icons/eslint.svg" alt="ESLint" title="ESLint" height="15px" />
+<img src="icons/eslint.svg" alt="ESLint" title="ESLint" height="15px" width="15px" />
 ESLint
 <img src="icons/prettier.svg" alt="Prettier" title="Prettier" height="15px" />
 Prettier
