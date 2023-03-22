@@ -46,6 +46,11 @@ MongoDB,
 Mongoose
 <br/>
 
+**Other:**
+<img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
+Jest
+<br/>
+
 **Concepts:**
 RESTful APIs,
 Object Relational / Data Mapping,
@@ -66,13 +71,15 @@ Prettier
 
 ## ⛓ My Links
 
-<img src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="15px" /> LinkedIn: Linkedin.com/in/jasonlieb/
+<img src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="15px" /> LinkedIn: [Linkedin.com/in/jasonlieb/](https://Linkedin.com/in/jasonlieb/)
 <br/>
 
-<img src="icons/github.svg" alt="Github" title="Github" height="15px" /> Portfolio:
+<img src="icons/github.svg" alt="Github" title="Github" height="15px" /> Portfolio: [Jason-Lieb.github.io/Portfolio/](https://jason-lieb.github.io/Portfolio/)
 <br/>
 
 ✉️ Email: Jason.lieb@outlook.com
+
+![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-lieb&show_icons=true&theme=transparent&hide_border=true)
 
 <!--
 - 🔭 I’m currently working on ...
