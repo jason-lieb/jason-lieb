@@ -1,6 +1,6 @@
 # Hi, I'm Jason! 👋
 
-I'm a software engineer in Atlanta, GA with an engineering degree and full stack bootcamp certification from Georgia Tech.
+I'm a software engineer in Atlanta, GA with an engineering degree and full stack bootcamp certificate from Georgia Tech.
 
 ## 💻 Technologies
 
