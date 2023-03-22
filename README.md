@@ -41,6 +41,8 @@ MySQL,
 <img src="icons/sequelize.svg" alt="Sequelize" title="Sequelize" height="15px" />
 Sequelize,
 NoSQL,
+<img src="icons/graphql.svg" alt="GraphQL" title="GraphQL" height="15px" />
+GraphQL
 <img src="icons/mongodb.svg" alt="MongoDB" title="MongoDB" height="15px" />
 MongoDB,
 Mongoose
@@ -49,8 +51,6 @@ Mongoose
 **Other:**
 <img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
 Jest
-<img src="icons/graphql.svg" alt="GraphQL" title="GraphQL" height="15px" />
-GraphQL
 <img src="icons/eslint.svg" alt="ESLint" title="ESLint" height="15px" width="15px" />
 ESLint
 <img src="icons/prettier.svg" alt="Prettier" title="Prettier" height="15px" />
