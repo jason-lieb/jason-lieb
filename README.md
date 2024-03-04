@@ -2,7 +2,7 @@
 
 I'm a software engineer in Atlanta, GA with an engineering degree and full stack bootcamp certificate from Georgia Tech.
 
-## 💻 Technologies
+## Technologies
 
 **Front End:**
 <img src="icons/html5.svg" alt="HTML" title="HTML" height="15px" />
@@ -48,23 +48,7 @@ MongoDB,
 Mongoose
 <br/>
 
-**Other:**
-<img src="icons/jest.svg" alt="Jest" title="Jest" height="15px" />
-Jest
-<img src="icons/eslint.svg" alt="ESLint" title="ESLint" height="15px" width="15px" />
-ESLint
-<img src="icons/prettier.svg" alt="Prettier" title="Prettier" height="15px" />
-Prettier
-<br/>
-
-**Concepts:**
-RESTful APIs,
-Object Relational / Data Mapping,
-Model View Controller,
-Agile Methodology
-<br/>
-
-## ⛓ My Links
+## My Links
 
 <img src="icons/linkedin.svg" alt="LinkedIn" title="LinkedIn" height="15px" /> LinkedIn: [Linkedin.com/in/jasonlieb/](https://Linkedin.com/in/jasonlieb/)
 <br/>
@@ -72,17 +56,4 @@ Agile Methodology
 <img src="icons/github.svg" alt="Github" title="Github" height="15px" /> Portfolio: [Jason-Lieb.github.io/Portfolio/](https://jason-lieb.github.io/Portfolio/)
 <br/>
 
-✉️ Email: Jason.lieb@outlook.com
-
-<!-- ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jason-lieb&show_icons=true&theme=transparent&hide_border=true) -->
-
-<!--
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Email: Jason.lieb@outlook.com
